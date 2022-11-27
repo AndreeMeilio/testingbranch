@@ -1,5 +1,5 @@
 testing auth
-auth register
+auth dsds
 authasdfasdf
 auth
 duaaaaaa
