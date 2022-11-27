@@ -1,1 +1,3 @@
 testing auth
+auth register
+auth languange
